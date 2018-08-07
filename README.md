@@ -1,8 +1,5 @@
 # ShortenMe
 
-## Holistics interview assignment 
-#### Applicant: Nhiem Ngo
-
 ### Deployed app on Heroku:
 
 http://desolate-atoll-73195.herokuapp.com/
